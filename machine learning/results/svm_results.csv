@@ -1,0 +1,4 @@
+linear kernel,0.868
+polynomial kernel,0.926
+radial basis gaussian kernel,0.994
+sigmoid kernel,0.822
