@@ -16,3 +16,10 @@ Including a few layer functions and built a sequential model using these layers.
 *fully connected layer <br />
 *softmax layer <br />
 *crossentropy layer <br />
+# Transfer Learning Case <br />
+Add a few transfer learning study cases, including <br />
+*AlexNet + SVM <br />
+*AlexNet + FullNet <br />
+*InceptionV3 + SVM <br />
+*InceptionV3 + FullNet <br />
+The confusion plots as well as the accuracy report are lised inside /results
