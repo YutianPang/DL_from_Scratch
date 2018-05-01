@@ -23,3 +23,4 @@ Add a few transfer learning study cases, including <br />
 *InceptionV3 + SVM <br />
 *InceptionV3 + FullNet <br />
 The confusion plots as well as the accuracy report are lised inside /results
+# GRU for sentiment classification <br />
