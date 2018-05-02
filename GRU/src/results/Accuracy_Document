@@ -1,0 +1,107 @@
+Deep Learning Project 2
+
+@ author: Yutian Pang
+
+1. sentiment dataset
+
+Loading sentiment...
+vocab size: 18298
+[Epoch: 1 ] loss: 0.909
+[Epoch: 2 ] loss: 0.693
+[Epoch: 3 ] loss: 0.561
+[Epoch: 4 ] loss: 0.400
+[Epoch: 5 ] loss: 0.263
+[Epoch: 6 ] loss: 0.170
+[Epoch: 7 ] loss: 0.124
+[Epoch: 8 ] loss: 0.177
+[Epoch: 9 ] loss: 0.196
+[Epoch: 10 ] loss: 0.132
+[Epoch: 11 ] loss: 0.132
+[Epoch: 12 ] loss: 0.113
+[Epoch: 13 ] loss: 0.056
+[Epoch: 14 ] loss: 0.033
+[Epoch: 15 ] loss: 0.036
+[Epoch: 16 ] loss: 0.031
+[Epoch: 17 ] loss: 0.023
+[Epoch: 18 ] loss: 0.091
+[Epoch: 19 ] loss: 0.054
+[Epoch: 20 ] loss: 0.040
+[Epoch: 21 ] loss: 0.023
+[Epoch: 22 ] loss: 0.013
+[Epoch: 23 ] loss: 0.010
+[Epoch: 24 ] loss: 0.006
+[Epoch: 25 ] loss: 0.006
+[Epoch: 26 ] loss: 0.003
+[Epoch: 27 ] loss: 0.003
+[Epoch: 28 ] loss: 0.002
+[Epoch: 29 ] loss: 0.002
+[Epoch: 30 ] loss: 0.001
+[Epoch: 31 ] loss: 0.001
+[Epoch: 32 ] loss: 0.001
+[Epoch: 33 ] loss: 0.001
+[Epoch: 34 ] loss: 0.001
+[Epoch: 35 ] loss: 0.001
+[Epoch: 36 ] loss: 0.001
+[Epoch: 37 ] loss: 0.001
+[Epoch: 38 ] loss: 0.001
+[Epoch: 39 ] loss: 0.001
+[Epoch: 40 ] loss: 0.001
+[Epoch: 41 ] loss: 0.001
+[Epoch: 42 ] loss: 0.001
+[Epoch: 43 ] loss: 0.000
+[Epoch: 44 ] loss: 0.000
+[Epoch: 45 ] loss: 0.000
+Finished Training
+Accuracy of the network on the 10000 test images: 63 %
+
+2. questions dataset
+
+Loading questions...
+vocab size: 7694
+[Epoch: 1 ] loss: 3.830
+[Epoch: 2 ] loss: 2.277
+[Epoch: 3 ] loss: 1.751
+[Epoch: 4 ] loss: 1.506
+[Epoch: 5 ] loss: 1.272
+[Epoch: 6 ] loss: 1.126
+[Epoch: 7 ] loss: 0.969
+[Epoch: 8 ] loss: 0.889
+[Epoch: 9 ] loss: 0.802
+[Epoch: 10 ] loss: 0.743
+[Epoch: 11 ] loss: 0.812
+[Epoch: 12 ] loss: 0.799
+[Epoch: 13 ] loss: 0.739
+[Epoch: 14 ] loss: 0.715
+[Epoch: 15 ] loss: 0.744
+[Epoch: 16 ] loss: 0.737
+[Epoch: 17 ] loss: 0.619
+[Epoch: 18 ] loss: 0.591
+[Epoch: 19 ] loss: 0.568
+[Epoch: 20 ] loss: 0.565
+[Epoch: 21 ] loss: 0.524
+[Epoch: 22 ] loss: 0.535
+[Epoch: 23 ] loss: 0.565
+[Epoch: 24 ] loss: 0.586
+[Epoch: 25 ] loss: 0.568
+[Epoch: 26 ] loss: 0.541
+[Epoch: 27 ] loss: 0.533
+[Epoch: 28 ] loss: 0.544
+[Epoch: 29 ] loss: 0.485
+[Epoch: 30 ] loss: 0.526
+[Epoch: 31 ] loss: 0.504
+[Epoch: 32 ] loss: 0.466
+[Epoch: 33 ] loss: 0.476
+[Epoch: 34 ] loss: 0.503
+[Epoch: 35 ] loss: 0.512
+[Epoch: 36 ] loss: 0.500
+[Epoch: 37 ] loss: 0.512
+[Epoch: 38 ] loss: 0.637
+[Epoch: 39 ] loss: 0.683
+[Epoch: 40 ] loss: 0.745
+[Epoch: 41 ] loss: 0.738
+[Epoch: 42 ] loss: 0.651
+[Epoch: 43 ] loss: 0.633
+[Epoch: 44 ] loss: 0.674
+[Epoch: 45 ] loss: 0.710
+Finished Training
+Accuracy of the network on the 10000 test images: 57 %
