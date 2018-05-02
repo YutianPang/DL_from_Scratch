@@ -1,6 +1,6 @@
 Gated Recurrent Unit for text classification task
 
-Please make sure your local machine has a cuda capabile GPU to run this code.
+Please make sure your local machine has a cuda capable GPU to run this code.
 
 Here is the link for the dataset used in this demo.
 
