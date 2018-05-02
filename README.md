@@ -23,4 +23,7 @@ Add a few transfer learning study cases, including <br />
 *InceptionV3 + SVM <br />
 *InceptionV3 + FullNet <br />
 The confusion plots as well as the accuracy report are lised inside /results
-# GRU for sentiment classification <br />
+# Gated Recurrent Unit (GRU) <br />
+GRU is a simplified version of LSTM. <br />
+* GRU for sentiment dataset(2 classes)<br />
+* GRU for question dataset(50 classes)<br />
