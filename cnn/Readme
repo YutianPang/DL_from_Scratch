@@ -1,0 +1,3 @@
+This folder includes numpy implementation of several CNN layers and also a simply CNN network built using these layers.<br \>
+The computational cost is extremely high compare to other developed packages.<br \>
+To better evaluate the performance. there's also a Keras implementation of the same network.<br \>
