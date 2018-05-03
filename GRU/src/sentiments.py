@@ -125,7 +125,7 @@ class BaseNet(nn.Module):
             correct += (predicted == labels).sum()
             all_predicted += predicted.tolist()
 
-        print('Accuracy of the network on the 10000 test images: %d %%' % (
+        print('Accuracy of the network on test datasets: %d %%' % (
                 100 * correct / total))
 
         return all_predicted
