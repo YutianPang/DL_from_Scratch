@@ -52,7 +52,7 @@ vocab size: 18298
 [Epoch: 44 ] loss: 0.000
 [Epoch: 45 ] loss: 0.000
 Finished Training
-Accuracy of the network on the 10000 test images: 63 %
+Accuracy of the network on test datasets: 63 %
 
 2. questions dataset
 
@@ -104,4 +104,4 @@ vocab size: 7694
 [Epoch: 44 ] loss: 0.674
 [Epoch: 45 ] loss: 0.710
 Finished Training
-Accuracy of the network on the 10000 test images: 57 %
+Accuracy of the network on test datasets: 57 %
