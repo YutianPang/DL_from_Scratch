@@ -1,5 +1,5 @@
 # Deep Learning From Scratch
-This is a collection of assignments and projects source code during my learning phase. In includes a few machine learning algorithms as well as CNN, RNN and transfer learning classes. <br />
+This is a collection of assignments and projects source code during my learning phase. It includes a few machine learning algorithms as well as CNN, RNN and transfer learning classes. <br />
 # Machine Learning Algorithms <br />
 Including a few classical machine learning algorithms, such as <br />
 *logistic regression <br />
